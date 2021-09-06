@@ -1,0 +1,2 @@
+A packages file is the file that keeps track of locally installed third-party packages
+to create it we use    `npm init`
